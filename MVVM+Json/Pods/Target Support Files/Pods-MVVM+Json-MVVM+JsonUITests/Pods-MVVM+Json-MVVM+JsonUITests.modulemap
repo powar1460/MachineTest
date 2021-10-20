@@ -1,0 +1,6 @@
+framework module Pods_MVVM_Json_MVVM_JsonUITests {
+  umbrella header "Pods-MVVM+Json-MVVM+JsonUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
